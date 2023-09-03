@@ -137,3 +137,4 @@ llama-7b-hf/*
 cache/
 
 dataset/
+mimic-it/convert-it/output/
